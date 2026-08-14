@@ -1,5 +1,5 @@
 ##  Dashboard Preview
-<img src="https://raw.githubusercontent.com/Amia-Mohamed05/vaccination/main/vaccination.png" alt="Vaccination Dashboard" width="100%">
+<img src="https://raw.githubusercontent.com/Amia-Mohamed05/vaccination/main/vaccination.png" alt="Vaccination" width="100%">
 
 
   # 📊 Project Overview
