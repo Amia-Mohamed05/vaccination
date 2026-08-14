@@ -1,5 +1,5 @@
 ##  Dashboard Preview
-<img src="Vaccination%20Dashboard.png" alt="Vaccination Dashboard" width="100%">
+<img src="Vaccination%20Dashboard.png" alt="Vaccination" width="100%">
 
   # 📊 Project Overview
 An interactive Vaccination Campaign Dashboard developed using Power BI to track and monitor a hospital vaccination campaign, showing registered employees, external entities, vaccine stock, and overall campaign progress in real time.
