@@ -1,6 +1,6 @@
 ##  Dashboard Preview
 <p align="center">
-  <img src="./vaccination.png" alt="Vaccination Dashboard" width="100%">
+  <img src="./vaccination.png" alt="Vaccination" width="100%">
 </p>
 
   # 📊 Project Overview
